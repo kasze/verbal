@@ -6,6 +6,7 @@ module Verbal
 # => "milion jedna koron czeskich zero halerzy"
 # pomyslec nad przekazywaniem exponenta -> wowczas szloby reagowac ladnie na 0,1
 # zlikwidowac process_number
+# obsluga multilang
 
     EXPONENT = {
       0 => ['', '', ''],
